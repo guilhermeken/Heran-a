@@ -1,0 +1,1 @@
+O ornitorrinco não pode herdar de somente uma dessas classes pois possui características de ambas, porém o java não possui herança múltipla, então o ornitorrinco não poderia herdar das duas classes. Dito isso uma nova classe deveria ser criada somente para o ornitorrinco.
